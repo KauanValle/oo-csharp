@@ -1,0 +1,15 @@
+/Users/kauanvallesantos/Projects/estudo/estudo/bin/Debug/net6.0/estudo
+/Users/kauanvallesantos/Projects/estudo/estudo/bin/Debug/net6.0/estudo.deps.json
+/Users/kauanvallesantos/Projects/estudo/estudo/bin/Debug/net6.0/estudo.runtimeconfig.json
+/Users/kauanvallesantos/Projects/estudo/estudo/bin/Debug/net6.0/estudo.dll
+/Users/kauanvallesantos/Projects/estudo/estudo/bin/Debug/net6.0/estudo.pdb
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/estudo.csproj.AssemblyReference.cache
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/estudo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/estudo.AssemblyInfoInputs.cache
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/estudo.AssemblyInfo.cs
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/estudo.csproj.CoreCompileInputs.cache
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/estudo.dll
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/refint/estudo.dll
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/estudo.pdb
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/estudo.genruntimeconfig.cache
+/Users/kauanvallesantos/Projects/estudo/estudo/obj/Debug/net6.0/ref/estudo.dll
